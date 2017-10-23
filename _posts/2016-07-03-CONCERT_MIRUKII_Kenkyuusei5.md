@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[2016-07-03] Mirukii & NMB48 5th"
-description: 남바5기-届かなそうで届くもの(미루키졸콘)
+description: 남바5기-届かなそうで届くもの(미루키졸업콘)
 image: 'https://i.vimeocdn.com/video/662468830_1280x720.jpg'
 category: 'concert'
 tags:
@@ -9,8 +9,8 @@ tags:
 - concert
 - ayaka
 - kenkyuusei
-twitter_text: 남바5기-届かなそうで届くもの(미루키졸콘)
-introduction: 남바5기-届かなそうで届くもの(미루키졸콘)
+twitter_text: 남바5기-届かなそうで届くもの(미루키졸업콘)
+introduction: 남바5기-届かなそうで届くもの(미루키졸업콘)
 ---
 <figure class="video_container">
 <iframe src="https://player.vimeo.com/video/239485362" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
