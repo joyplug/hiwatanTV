@@ -1,0 +1,43 @@
+# Site Settings
+title: HiwatanTV | For Hiwatashi Yui | 히와땅
+email: seol.sw@gmail.com
+description: 히와땅TV.
+baseurl: "/hiwatanTV" # the subpath of your site, e.g. /blog
+url: "https://joyplug.github.io" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: JOYPLUG
+user_description: JOYPLUG
+disqus_username: hiwatantv
+
+# Social Media
+# Remove the item if you don't need it
+github_username: joyplug  
+facebook_username: seongwoon.seol
+twitter_username: joyplug
+instagram_username: joyplug
+linkedin_username: joyplug
+medium_username: joyplug
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

@@ -1,0 +1,23 @@
+<footer>
+    <p>
+      {% if site.github_username %}
+      <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
+        <svg><use xlink:href="#icon-github"></use></svg>
+      </a>
+      {% endif %}
+      {% if site.twitter_username %}
+      <a itemprop="twitter" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+        <svg><use xlink:href="#icon-twitter"></use></svg>
+      </a>
+      {% endif %}
+    </p>
+    <ul>
+        {% for link in site.links %}
+          <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+        <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a></li>
+    </ul>
+    <p><span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="http://www.rossener.com" target="_blank" class="creator">Thiago Rossener</a></p>
+</footer>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+{% include stats.html %}

@@ -1,0 +1,22 @@
+<section class="author" itemprop="author">
+  <div class="details" itemscope itemtype="http://schema.org/Person">
+    <img itemprop="image" class="img-rounded" src="https://avatars2.githubusercontent.com/u/3415567?s=460&v=4" alt="{{ site.name }}">
+    <p class="def">Author</p>
+    <h3 class="name">
+      <a itemprop="name" href="https://github.com/{{ site.github_username }}">{{ site.username }}</a>
+    </h3>
+    <p class="desc">{{ site.user_description }}</p>
+    <p>
+      {% if site.github_username %}
+      <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
+        <svg><use xlink:href="#icon-github"></use></svg>
+      </a>
+      {% endif %}
+      {% if site.twitter_username %}
+      <a itemprop="twitter" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+        <svg><use xlink:href="#icon-twitter"></use></svg>
+      </a>
+      {% endif %}
+    </p>
+  </div>
+</section>
