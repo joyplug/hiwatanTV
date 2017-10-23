@@ -13,7 +13,7 @@ twitter_text: 남바5기-届かなそうで届くもの(미루키졸콘)
 introduction: 남바5기-届かなそうで届くもの(미루키졸콘)
 ---
 <figure class="video_container">
-<iframe src="https://player.vimeo.com/video/239485362" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/239485362" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
 
 아얀~ 잘 자라고 있네 크흐음...
