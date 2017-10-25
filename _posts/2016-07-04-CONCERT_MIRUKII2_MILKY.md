@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2016-07-04] Mirukii & Milky
+title: "[2016-07-04] Mirukii & Milky"
 description: Milky?(미루키졸업콘)
 image: 'https://i.vimeocdn.com/video/662946921_1280x720.jpg'
 category: 'concert'
