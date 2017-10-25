@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[2016-07-03] Mirukii & Seishun No Laptime"
+title: "[2016-07-04] Mirukii & 青春のラップタイム"
 description: 青春のラップタイム(미루키졸업콘)
-image: 'https://i.vimeocdn.com/video/662723793_1280x720.jpg'
+image: 'https://i.vimeocdn.com/video/662947799_1280x720.jpg'
 category: 'concert'
 tags:
 - mirukii
@@ -11,7 +11,7 @@ twitter_text: 青春のラップタイム(미루키졸업콘)
 introduction: 青春のラップタイム(미루키졸업콘)
 ---
 <figure class="video_container">
-<iframe src="https://player.vimeo.com/video/239683962" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/239851645" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
 
 みるきー だいすき!!!! ㅠㅠㅠ<br>
