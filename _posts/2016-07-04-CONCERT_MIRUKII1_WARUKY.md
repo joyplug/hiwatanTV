@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2016-07-04] Mirukii & わるきー"
+title: "[2016-07-04] Mirukii & Warukii"
 description: わるきー(미루키졸업콘)
 image: 'https://i.vimeocdn.com/video/662946800_1280x720.jpg'
 category: 'concert'

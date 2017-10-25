@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2016-07-03] Mirukii & 届かなそうで届くもの"
+title: "[2016-07-03] Mirukii & NMB48 5th"
 description: 남바5기생-届かなそうで届くもの(미루키졸업콘)
 image: 'https://i.vimeocdn.com/video/662468830_1280x720.jpg'
 category: 'concert'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2016-07-03] Mirukii & 僕はいない & ナギイチ"
+title: "[2016-07-03] Mirukii & BokuInai & NagiIchi"
 description: 僕はいない(미루키졸업콘)
 image: 'https://i.vimeocdn.com/video/662947108_1280x720.jpg'
 category: 'concert'

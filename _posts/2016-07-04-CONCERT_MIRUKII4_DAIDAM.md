@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2016-07-04] Mirukii & 僕がもう少し大胆なら"
+title: "[2016-07-04] Mirukii & BokuDaiDam"
 description: 僕がもう少し大胆なら(미루키졸업콘)
 image: 'https://i.vimeocdn.com/video/662947190_1280x720.jpg'
 category: 'concert'
