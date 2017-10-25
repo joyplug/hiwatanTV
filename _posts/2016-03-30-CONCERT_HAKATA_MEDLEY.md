@@ -5,7 +5,7 @@ description: HKT48 마린멧세 후쿠오카 콘서트(2016)
 image: 'https://i.vimeocdn.com/video/662960382_1280x720.jpg'
 category: 'concert'
 tags:
-- mirukii
+- hkt48
 - concert
 twitter_text: HKT48 마린멧세 후쿠오카 콘서트(2016)
 introduction: HKT48 마린멧세 후쿠오카 콘서트(2016)
