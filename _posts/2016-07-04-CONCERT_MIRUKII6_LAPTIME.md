@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2016-07-04] Mirukii & Young Laptime"
+title: "[2016-07-04] Mirukii & 青春のラップタイム"
 description: 青春のラップタイム(미루키졸업콘)
 image: 'https://i.vimeocdn.com/video/662947799_1280x720.jpg'
 category: 'concert'
