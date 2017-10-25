@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2016-07-04] Mirukii & Zipper"
+title: "[2016-07-04] Mirukii & ジッパー"
 description: ジッパー(미루키졸업콘)
 image: 'https://i.vimeocdn.com/video/662947191_1280x720.jpg'
 category: 'concert'
