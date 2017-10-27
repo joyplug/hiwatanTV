@@ -11,5 +11,6 @@ twitter_text: 感謝祭(권내콘)
 introduction: 感謝祭(권내콘)
 ---
 <figure class="video_container">
-<iframe src="https://www.dropbox.com/s/voydm1usavqasaz/916885212339908608.mp4" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://drive.google.com/uc?export=view&id=0B-Dho9wVSmm9ci14MVZtdFJZaFE
+" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
