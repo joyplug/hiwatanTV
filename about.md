@@ -9,3 +9,4 @@ permalink: /about/
 
 ## About
 
+<img itemprop="image" src="https://78.media.tumblr.com/2c32e5ab113dec043de99f0426e6a643/tumblr_nvu0piiovx1qgf86ro3_400.gif" alt="hiwatanTV">
