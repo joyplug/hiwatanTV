@@ -2,7 +2,7 @@
 layout: post
 title: "[2017-10-08] 感謝祭"
 description: 感謝祭(권내콘 감사제, 2017)
-image: 'https://lh6.googleusercontent.com/RMa6BUYUpXPs67hmgYClt8JraNFTTHhqntn8aNZk03EJG0vB3-SuRaSeMVL2RFVsmkyuoXdhJ3Z7IHU=w1309-h870'
+image: 'https://lh4.googleusercontent.com/Fp9839jYDDwQxKuF_2yxWjJTsaA1-ub75VnAjh__flPizap_tI0a5Lsd6-X_-BLSYO7fKa0iYBCdvuU=w1712-h871'
 category: 'concert'
 tags:
 - hiwatan
