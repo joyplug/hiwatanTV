@@ -2,7 +2,7 @@
 layout: post
 title: "[2017-10-08] 感謝祭"
 description: 感謝祭(권내콘 감사제, 2017)
-image: 'https://pbs.twimg.com/ext_tw_video_thumb/916885048711720960/pu/img/8RqbWnM2dtpJdt-2.jpg:small'
+image: 'https://lh6.googleusercontent.com/RMa6BUYUpXPs67hmgYClt8JraNFTTHhqntn8aNZk03EJG0vB3-SuRaSeMVL2RFVsmkyuoXdhJ3Z7IHU=w1309-h870'
 category: 'concert'
 tags:
 - hiwatan
@@ -11,6 +11,5 @@ twitter_text: 感謝祭(권내콘 감사제, 2017)
 introduction: 感謝祭(권내콘 감사제, 2017)
 ---
 <figure class="video_container">
-<iframe src="https://drive.google.com/uc?export=view&id=0B-Dho9wVSmm9ci14MVZtdFJZaFE
-" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/240496936" height="1137" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
