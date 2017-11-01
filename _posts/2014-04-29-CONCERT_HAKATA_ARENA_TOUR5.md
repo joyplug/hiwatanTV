@@ -2,7 +2,7 @@
 layout: post
 title: "[2014-04-29] Hakata & ラッパ練習中"
 description: HKT48 아리나투어 마쿠하리멧세(2014) - ラッパ練習中
-image: 'https://i.vimeocdn.com/video/663170205_1280x720.jpg'
+image: 'https://i.vimeocdn.com/video/664253889_1280x720.jpg'
 category: 'concert'
 tags:
 - hkt48
