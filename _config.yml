@@ -37,7 +37,9 @@ links:
   - title: About
     url: /about/
   - title: Concert
-    url: /tags/#concert/
+    url: /tags/#concert
+  - title: 君、誰?
+    url: /tags/#kimidare
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
