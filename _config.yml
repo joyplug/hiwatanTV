@@ -37,7 +37,7 @@ links:
   - title: About
     url: /about/
   - title: Concert
-    url: //tags/#concert/
+    url: /tags/#concert/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
