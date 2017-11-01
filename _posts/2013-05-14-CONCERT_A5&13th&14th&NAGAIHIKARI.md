@@ -1,0 +1,18 @@
+---
+layout: post
+title: "[2013-05-14] A5 13th&14th(2013) & 長い光"
+description: AKB48 A5 13기&14기 콘서트(2013) - 長い光
+image: 'https://i.vimeocdn.com/video/664262772_1280x720.jpg'
+category: 'concert'
+tags:
+- akb48
+- concert
+twitter_text: AKB48 A5 13기&14기 콘서트(2013) - 長い光
+introduction: AKB48 A5 13기&14기 콘서트(2013) - 長い光
+---
+<figure class="video_container">
+<iframe src="https://player.vimeo.com/video/240852076" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</figure>
+
+13기와 14기...<br>
+두번째 최애 Team 4 ! <br> 
