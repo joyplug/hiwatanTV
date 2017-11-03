@@ -11,7 +11,7 @@ twitter_text: AKB48 A5 13기&14기 콘서트(2013) - 長い光
 introduction: AKB48 A5 13기&14기 콘서트(2013) - 長い光
 ---
 <figure class="video_container">
-<object width="720" height="438" data="http://serviceapi.nmv.naver.com/view/ugcPlayer.nhn?vid=2A6E77F2C795E340F8F6C086E590D3D41C63&inKey=V122e50c6ba9336dc46d5646d3a437e9f36ebfa94954bf386af03759459ee331d882a646d3a437e9f36eb&hasLink=0" type="text/html"  frameborder="0" scrolling="no" allowfullscreen></object>
+<iframe src="http://serviceapi.nmv.naver.com/view/ugcPlayer.nhn?vid=2A6E77F2C795E340F8F6C086E590D3D41C63&inKey=V122e50c6ba9336dc46d5646d3a437e9f36ebfa94954bf386af03759459ee331d882a646d3a437e9f36eb" width="720" height="438" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
 
 13기와 14기...<br>
