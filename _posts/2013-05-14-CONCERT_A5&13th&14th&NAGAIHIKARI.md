@@ -2,7 +2,7 @@
 layout: post
 title: "[2013-05-14] A5 13th&14th(2013) & 長い光"
 description: AKB48 A5 13기&14기 콘서트(2013) - 長い光
-image: 'https://d.pr/rYjaMJ'
+image: 'https://cdn-pro.dprcdn.net/files/acc_501207/rYjaMJ'
 category: 'concert'
 tags:
 - akb48
