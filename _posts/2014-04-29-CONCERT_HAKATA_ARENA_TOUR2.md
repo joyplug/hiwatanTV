@@ -2,7 +2,7 @@
 layout: post
 title: "[2014-04-29] Hakata & 覚えてください"
 description: HKT48 아리나투어 마쿠하리멧세(2014) - 覚えてください
-image: 'https://i.vimeocdn.com/video/663179674_1280x720.jpg'
+image: 'https://cdn-pro.dprcdn.net/files/acc_501207/CVJFfG
 category: 'concert'
 tags:
 - hkt48
@@ -11,7 +11,7 @@ twitter_text: HKT48 아리나투어 마쿠하리멧세(2014) - 覚えてくだ�
 introduction: HKT48 아리나투어 마쿠하리멧세(2014) - 覚えてください
 ---
 <figure class="video_container">
-<iframe src="https://player.vimeo.com/video/240018694" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="936" height="526" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=D69197253BAB504557D820D7D30B15428276&outKey=V1234e0f04f3b4c81c0c5c8acd0c5efa4308cead025cb93e9b718c8acd0c5efa4308c" frameborder="no" scrolling="no"></iframe>
 </figure>
 
 미룽 센터~*<br>
