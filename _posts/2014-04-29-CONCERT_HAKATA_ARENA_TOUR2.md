@@ -2,7 +2,7 @@
 layout: post
 title: "[2014-04-29] Hakata & 覚えてください"
 description: HKT48 아리나투어 마쿠하리멧세(2014) - 覚えてください
-image: 'https://cdn-pro.dprcdn.net/files/acc_501207/CVJFfG
+image: 'https://cdn-pro.dprcdn.net/files/acc_501207/CVJFfG'
 category: 'concert'
 tags:
 - hkt48
