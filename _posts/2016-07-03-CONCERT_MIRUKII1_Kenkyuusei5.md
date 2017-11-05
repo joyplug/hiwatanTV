@@ -13,7 +13,7 @@ twitter_text: 남바5기생-届かなそうで届くもの(미루키졸업콘)
 introduction: 남바5기생-届かなそうで届くもの(미루키졸업콘)
 ---
 <figure class="video_container">
-<iframe width="740" height="416" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=DE686EF3058F13BA929D22D8198D9C6DCCFF&outKey=V1246850ef4465a9dd195beba196547534ceb0741943f98383054beba196547534ceb" frameborder="no" scrolling="no"></iframe>
+<iframe width="740" height="416" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=DE686EF3058F13BA929D22D8198D9C6DCCFF&outKey=V1246850ef4465a9dd195beba196547534ceb0741943f98383054beba196547534ceb" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
 
 아얀~ 잘 자라고 있네 크흐음...
@@ -25,5 +25,5 @@ introduction: 남바5기생-届かなそうで届くもの(미루키졸업콘)
 ![A-yan](https://i.ytimg.com/vi/njypqhhoOck/maxresdefault.jpg)
 
 <figure class="video_container">
-<iframe width="936" height="526" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=9A705A59CF5C40D349F86F850D20745D59CD&outKey=V1276d41b6039f7fa60b81d496879eb567a69820790c6f5475df31d496879eb567a69" frameborder="no" scrolling="no"></iframe>
+<iframe width="936" height="526" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=9A705A59CF5C40D349F86F850D20745D59CD&outKey=V1276d41b6039f7fa60b81d496879eb567a69820790c6f5475df31d496879eb567a69" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
