@@ -2,7 +2,7 @@
 layout: post
 title: "[2016-07-03] Mirukii & 届かなそうで届くもの"
 description: 남바5기생-届かなそうで届くもの(미루키졸업콘)
-image: 'https://i.vimeocdn.com/video/662468830_1280x720.jpg'
+image: 'https://cdn-pro.dprcdn.net/files/acc_501207/mNX5vu'
 category: 'concert'
 tags:
 - mirukii
@@ -13,7 +13,7 @@ twitter_text: 남바5기생-届かなそうで届くもの(미루키졸업콘)
 introduction: 남바5기생-届かなそうで届くもの(미루키졸업콘)
 ---
 <figure class="video_container">
-<iframe src="https://player.vimeo.com/video/239485362" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="740" height="416" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=DE686EF3058F13BA929D22D8198D9C6DCCFF&outKey=V1246850ef4465a9dd195beba196547534ceb0741943f98383054beba196547534ceb" frameborder="no" scrolling="no"></iframe>
 </figure>
 
 아얀~ 잘 자라고 있네 크흐음...
