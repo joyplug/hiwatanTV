@@ -11,5 +11,5 @@ twitter_text: HKT48 아리나투어 마쿠하리멧세(2014) - 桜、みんな�
 introduction: HKT48 아리나투어 마쿠하리멧세(2014) - 桜、みんなで食べた 
 ---
 <figure class="video_container">
-<iframe width="936" height="526" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=143C01B1F586D08E5F146AC265F0176E6ECC&outKey=V127972b4a0219f3b56f3062e833f97b7da2e27b8dfd62cf7ba2f062e833f97b7da2e" frameborder="no" scrolling="no"></iframe>
+<iframe height="526" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=143C01B1F586D08E5F146AC265F0176E6ECC&outKey=V127972b4a0219f3b56f3062e833f97b7da2e27b8dfd62cf7ba2f062e833f97b7da2e" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
