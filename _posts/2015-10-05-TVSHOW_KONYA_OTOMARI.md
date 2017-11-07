@@ -12,5 +12,5 @@ twitter_text: 오늘밤 숙박 모음(히와땅 위주)
 introduction: 오늘밤 숙박 모음(히와땅 위주)
 ---
 <figure class="video_container">
-<iframe width="936" height="526" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=C12AF94B78D10AACD903264FEEF201E046B6&outKey=V126696b90db259fba84573fc13e59a5c61fe939f9937bc6500cd73fc13e59a5c61fe" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="936" height="526" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=A89D949A7A5FDA836F60A5F5CEBC396D2809&outKey=V125a77c089939b7290bd6ecbee95d142e009413916135ea9a76f6ecbee95d142e009" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
