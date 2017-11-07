@@ -2,7 +2,7 @@
 layout: post
 title: "[2015-05-15] 2015 제2회 드래프트 회의(히와타시 유이 Pick)"
 description: 2015 제2회 드래프트 회의(히와타시 유이 Pick)
-image: 'https://cdn-pro.dprcdn.net/files/acc_501207/az4odY'
+image: 'https://cdn-pro.dprcdn.net/files/acc_501207/IFzF83'
 category: 'event'
 tags:
 - hiwatan
@@ -20,5 +20,5 @@ introduction: 2015 제2회 드래프트 회의(히와타시 유이 Pick)
 </figure>
 
 <figure class="video_container">
-<iframe width="936" height="526" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=7DD786D8BBE6647584C5E02F448C29271F60&outKey=V1210079522c655aea544310d68073d62b0b384e5f47758a98456310d68073d62b0b3" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="936" height="526" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=7DD786D8BBE6647584C5E02F448C29271F60&outKey=V1210079522c655aea544310d68073d62b0b384e5f47758a98456310d68073d62b0b3" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
