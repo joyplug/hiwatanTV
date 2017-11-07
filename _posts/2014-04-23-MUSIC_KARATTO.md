@@ -2,7 +2,7 @@
 layout: post
 title: "[2014-04-23] からっと☆4thシングル『ドットアオゾラ 』MV"
 description: 카랏토☆4th싱글『ドットアオゾラ 』MV(히와땅)
-image: 'https://cdn-pro.dprcdn.net/files/acc_501207/z3PL3J'
+image: 'https://cdn-pro.dprcdn.net/files/acc_501207/TgoczB'
 category: 'concert'
 tags:
 - hiwatan
