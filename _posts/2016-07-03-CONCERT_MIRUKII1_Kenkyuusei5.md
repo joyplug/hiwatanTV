@@ -13,7 +13,7 @@ twitter_text: 남바5기생-届かなそうで届くもの(미루키졸업콘)
 introduction: 남바5기생-届かなそうで届くもの(미루키졸업콘)
 ---
 <figure class="video_container">
-<iframe width="740" height="416" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=DE686EF3058F13BA929D22D8198D9C6DCCFF&outKey=V1246850ef4465a9dd195beba196547534ceb0741943f98383054beba196547534ceb" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="936" height="526" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=71B6F75655EE347F3180301EAF5237EC7249&outKey=V12592f80ac551045d40a805f176e5a5a96c8eb79981581a58e42805f176e5a5a96c8" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
 
 아얀~ 잘 자라고 있네 크흐음...

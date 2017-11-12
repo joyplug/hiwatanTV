@@ -12,5 +12,5 @@ twitter_text: Milky's Way(미루키졸업콘)
 introduction: Milky's Way(미루키졸업콘)
 ---
 <figure class="video_container">
-<iframe width="936" height="526" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=B63DC2093F1EF937303FBB16F34AC9175D92&outKey=V129650d69c4035033b96ed51fd7a4a9ac4e90b4eff7b773ded6bed51fd7a4a9ac4e9" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="936" height="526" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=AB0F70BC5C3B342A531FBD33D6AA5F12109F&outKey=V1250f4f0b1064e56e4f6343b1734c0a7d68a932446b72579a0de343b1734c0a7d68a" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
