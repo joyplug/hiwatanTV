@@ -12,7 +12,7 @@ twitter_text: ジッパー(미루키졸업콘)
 introduction: ジッパー(미루키졸업콘)
 ---
 <figure class="video_container">
-<iframe width="936" height="526" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=C77D579A3C51856D708C0FC3B833223888E9&outKey=V122d043983eb20f5c95dded0b06bbc892e141a2b6fa20cec4f46ded0b06bbc892e14" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="936" height="526" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=C77D579A3C51856D708C0FC3B833223888E9&outKey=V122d043983eb20f5c95dded0b06bbc892e141a2b6fa20cec4f46ded0b06bbc892e14" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
 
 케잇치와 아카링과의 마지막 (오리지날) 지퍼~<br> 
