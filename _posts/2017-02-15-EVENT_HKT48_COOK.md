@@ -12,9 +12,9 @@ twitter_text: バグっていいじゃん COOK(井上由莉耶,荒巻美咲)
 introduction: バグっていいじゃん COOK(井上由莉耶,荒巻美咲)
 ---
 <figure class="video_container">
-<iframe width="740" height="416" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=747B3CD4D342124FE524EC70F420F5BA7BA4&outKey=V122504cea347dd777782b088afa99e39a8ad6dfc5f82dcafaf74b088afa99e39a8ad" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="740" height="416" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=2108AB2733BF02FE2878928155487839090E&outKey=V1297dee5352028f7e911977d5a4b782b337431473236fb3ea2d7977d5a4b782b3374" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
 
 <figure class="video_container">
-<iframe width="740" height="416" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=475DF31108A85A4D8C9F463C2458197E492A&outKey=V123c301e80a9c6ece0cfb1b943db31a9a2c7df6dbebcb7c7f4f7b1b943db31a9a2c7" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="740" height="416" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=F5F48B76F4A3A0B4AD2461F1A68EA5FF5366&outKey=V1232e0145d9e0ccf8ee1103af211352acb1f52ac24dd625ad0ec103af211352acb1f" frameborder="no" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </figure>
